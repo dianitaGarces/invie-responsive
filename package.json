@@ -1,0 +1,38 @@
+{
+  "name": "invie",
+  "version": "1.0.0",
+  "description": "proyecto invie responsive",
+  "main": "C:\\Users\\USER\\Documents\\responsive\\gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "lost": "^8.2.0",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-import": "^11.0.0",
+    "postcss-mixins": "^6.1.1",
+    "postcss-nested": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianitaGarces/invie-responsive.git"
+  },
+  "keywords": [
+    "invie",
+    "responsive"
+  ],
+  "author": "dianaGarces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianitaGarces/invie-responsive/issues"
+  },
+  "homepage": "https://github.com/dianitaGarces/invie-responsive#readme"
+}
